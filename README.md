@@ -60,10 +60,12 @@ Increase engagement with male customers through targeted marketing.
 Introduce family-friendly travel packages.
 Expand reach into the Canadian market
 Results
--Traveltide Reward program (SQL, Python,Machine Learning)
+ #### Results
+ -[Traveltide Reward program (SQL, Python,Machine Learning)](https://colab.research.google.com/drive/1hcyqhGfZZvuLybxj6MKz-MFjyC9x6ez_#scrollTo=MnYuqK56PPKq)
+ 
+ -[Traveltide Presentation](https://youtu.be/hNdTDEOVoWc)
+ 
+ -[Interactive Dashboard](https://public.tableau.com/app/profile/mei.fang.chen/viz/Masteryproject/TravelTideReward)
 
--Traveltide Presentation
-
--Interactive Dashboard
-
--Executive Summary
+ -[Executive Summary](https://www.notion.so/Executive-Summary-revised-1d71062c5fba8091aeefc6ecf0d94c6e)
+-
