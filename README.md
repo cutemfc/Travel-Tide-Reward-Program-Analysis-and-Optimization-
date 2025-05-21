@@ -1,11 +1,11 @@
-##🚗 ravel-Tide-Reward-Program-Analysis-and-Optimization
-Goal:
+## Travel-Tide-Reward-Program-Analysis-and-Optimization
+### Goal:
 The primary mission of the Travel Tide Rewards Program is customer retention through targeted, data-driven reward allocation. The goal is to identify active users and provide personalized perks based on customer demographics and travel behaviors.
 
-Description:
+### Description:
 This project involved EDA, data preprocessing, feature eingering, pca reduction dimention and unsupervised machine learning (kmeans and DBscan) and integrate clusters with the feature table.
 
-Key tasks:
+### Key tasks:
 Data exploration and filtering by SQL.
 
 Data preprocessing, feature engineering, PCA treatment, visualization, K-means/DBSCAN clustering, and model evaluations.
@@ -14,7 +14,7 @@ Integration of clusters with feature tables followed by further data exploration
 
 Determine the most suitable reward perks and visualization by Tableau.
 
-Skills:
+### Skills:
 Data querying and filtering using SQL.
 
 Data cleaning, exploration (numpy, pandas, and seaborn), and visualization (matplotlib).
