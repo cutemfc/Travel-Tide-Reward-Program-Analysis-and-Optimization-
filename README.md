@@ -1,4 +1,4 @@
-## Travel-Tide-Reward-Program-Analysis-and-Optimization
+## 🚗Travel-Tide-Reward-Program-Analysis-and-Optimization
 ### Goal:
 The primary mission of the Travel Tide Rewards Program is customer retention through targeted, data-driven reward allocation. The goal is to identify active users and provide personalized perks based on customer demographics and travel behaviors.
 
