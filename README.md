@@ -6,9 +6,9 @@ The primary mission of the Travel Tide Rewards Program is customer retention thr
 This project involved EDA, data preprocessing, feature eingering, pca reduction dimention and unsupervised machine learning (kmeans and DBscan) and integrate clusters with the feature table.
 
 ### Key tasks:
-Data exploration and filtering by SQL.
+Data exploration and filtering by **SQL**.
 
-Data preprocessing, feature engineering, PCA treatment, visualization, K-means/DBSCAN clustering, and model evaluations.
+**Data preprocessing**, **feature engineering**, **PCA treatment**, visualization, **K-means/DBSCAN clustering**, and model evaluations.
 
 Integration of clusters with feature tables followed by further data exploration to identify specific features of cluster.
 
